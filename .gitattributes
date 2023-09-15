@@ -1,2 +1,5 @@
-git remote add origin https://github.com/L0kh1t/informaticsem.git
+git remote add origin https://github.com/L0kh1t/infoSEM.git
 print('hello world')
+b = 2 + 2
+print(b)
+git commit -m
