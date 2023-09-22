@@ -11,4 +11,6 @@ for i in range(N):
 for i in range(N):
     if i % 2 == 1:
         matrix[i] = matrix[i][::-1]
+for i in range(N):
+    matrix[i] *= (i+1)
 print(matrix)
